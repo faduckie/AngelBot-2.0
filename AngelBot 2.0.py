@@ -34,5 +34,5 @@ class Random(commands.Cog):
            print("Bot is an admin")
 
 bot.add_cog(Random(bot))
-TOKEN = 'ODIyNjUzNjAyNzE5MzM0NDEw.YFVZ3w.nZ72c0iuG5ncZn4P8W7nwbEqaqU'
+TOKEN = 'TOKEN'
 bot.run(TOKEN)
